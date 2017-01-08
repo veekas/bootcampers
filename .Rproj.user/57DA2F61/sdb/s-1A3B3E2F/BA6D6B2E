@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1483835350931.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BA6D6B2E",
+    "lastKnownWriteTime" : 7162256578842748782,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "bootcampers",
+        "contentUrl" : "content?title=bootcampers&file=460f4ebd93db4a70a9609e76472643e5.htm",
+        "displayedObservations" : 880,
+        "displayedVariables" : 100,
+        "totalObservations" : 880,
+        "variables" : 113
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
