@@ -1,6 +1,6 @@
-#bootcampers
+# bootcampers
 
-##TODO
+## TODO
 filter by which bootcamp attended, only graduates --</li>
 <ul>
   <li>average: income after graduation</li>
